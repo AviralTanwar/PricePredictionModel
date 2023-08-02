@@ -1,0 +1,156 @@
+Name,ram,processor,front_camera,rear_camera_1,rear_camera_2,rear_camera_3,rear_camera_4,rear_camera_Specific,battery_capacity,os,comp_os,resolution,height,width,depth,weight,refresh rate,screen size (inch),int_storage,call func,step_count,calorie count,heart Monitor,headphones,fingerprint_sensors,Price
+Samsung Galaxy Watch 4 (44mm),1.5,Exynos W920,0,0,0,0,0,None,361,none,Android,202500,43.3,44.4,9.8,30.3,60,1.4,16,yes,Yes,Yes,Yes,0,No,10990
+Amazfit GTS 2,-,"Dialog DA14697 0.1 GHz, Cortex M33F, Cortex M0+",0,0,0,0,0,None,220,none,"Android, iOS",153816,42.8,35.6,9.7,24.7,-,1.65,3,yes,Yes,Yes,Yes,0,No,8999
+Samsung Gear S2 Smartwatch,0.512,Exynos 3250,0,0,0,0,0,None,250,none,Android,129600,49.8,42.3,11.4,47,-,1.2,4,Yes,yes,yes,yes,0,No,7999
+Amazfit GTS 3,-,-,0,0,0,0,0,None,250,none,"Android, iOS",175500,36,42.4,8.8,24.4,30,1.75,0,yes,Yes,Yes,Yes,0,No,9999
+Samsung Galaxy Smartwatch,-,Exynos 9110 Dual Core Processor,0,0,0,0,0,None,247,none,Android & iOS,129600, 49,46,13,49,60,1.2,4,No,Yes,Yes,Yes,0,No,10999
+Amazfit Pace Smartwatch,0.512,1.2 GHz Core,0,0,0,0,0,None,280,none,"Android, iOS",96000,45.72,45.72,12.7,53.7,55.53,1.339,4,No,Yes,Yes,Yes,0,No,10999
+Amazfit GTR 3,-,-,0,0,0,0,0,None,450,none,"Android, iOS",206116,45.8,45.8,10.8,42,30,1.39,2.3,yes,Yes,Yes,Yes,0,No,13999
+Motorola Moto 360 Gen 2 Smartwatch,0.512,Qualcomm Snapdragon 400 APQ8026,0,0,0,0,0,None,400,none,"Android 4.3+, iOS 8.2+",118800,42,42,11.4,-,-,1.56,4,No,yes,yes,Yes,0,No,7999
+Fossil Q Explorist Smartwatch,4,Snapdragon Wear 2100,0,0,0,0,0,None,370,none,Android & iOS,102400,46,46,12.5,166,-,-,0.512,Yes,yes,Yes,No,0,No,9997
+Amazfit T-Rex Pro,0.512,-,0,0,0,0,0,None,390,none,"iOS, Android",115200,47.7,47.7,13.5,59.4,55,1.3,0.512,no,Yes,Yes,Yes,0,No,12999
+Realme Watch S Pro,-,ARM Cortex M4,0,0,0,0,0,None,420,none,"Android, iOS",206116,46,257.6,11.1,63.5,30,1.39,0,No,Yes,yes,Yes,0,No,9999
+Oppo Watch (41mm),1,"Qualcomm Snapdragon Wear 3100, Ambiq Micro Apollo3 Wireless",0,0,0,0,0,None,300,none,"Android, iOS",115200,36.37,41.45,11.4,30.1,-,1.91,8,Yes,Yes,Yes,Yes,0,No,14990
+Infinix Note 30 5G,4,Mediatek Dimensity 6080,16,108,2,0,0, AI,5000,Android 13,Android,2656800,168.62,76.5,8.45,204.7,120,6.78,128,Yes,No,No,No,3.5,Yes,14999
+Moto G13,4,MediaTek Helio G85,8,50,2,2,0,None,5000,Android 13,Android,1152000,162.7,74.66,8.19,183.45,90,6.5,64,Yes,No,No,No,3.5,Yes,9999
+Xiaomi Redmi 9 (Global),3,MediaTek Helio G80,8,13,8,5,2,None,5020,Android 10,Android,2527200,163.32,77.01,9.01,198,60,6.53,32,Yes,No,No,No,3.5,Yes,8999
+Tecno Spark 10 5G,4,Mediatek Dimensity 6020,8,50,0,0,0,None,5000,Android 13,Android,1232640,164.37,75.45,8.4,193,90,6.6,64,Yes,No,No,No,3.5,Yes,15000
+Realme 8i,4,MediaTek Helio G96,16,50,2,2,0,None,5000,Android 11,Android,2604960,164.1,75.5,8.5,194,120,6.6,64,Yes,No,No,No,3.5,Yes,14000
+Oppo A15,3,MediaTek Helio P35 (MT6765),5,13,2,2,0,None,4230,Android 10,Android,1152000,164,75,8,175,60,6.52,32,Yes,No,No,No,3.5,Yes,10999
+Realme C35,4,Unisoc T616,8,50,2,2,0,None,5000,Android 11,Android,2600640,164.4,75.6,8.1,189,60,6.6,64,Yes,No,No,No,3.5,Yes,9699
+Samsung Galaxy A12 (Exynos),4,Samsung Exynos 850,8,48,5,2,2,None,5000,Android 11,Android,1152000,164,75.8,8.9,205,60,6.5,64,Yes,No,No,No,3.5,Yes,13999
+Realme C12,3,MediaTek Helio G35,5,13,2,2,0,None,6000,Android 10,Android,1152000,164.5,75.9,9.8,209,120,6.5,32,Yes,No,No,No,3.5,Yes,10999
+Tecno Camon 20,8,MediaTek Helio G85,32,64,2,0,0, QVGA,5000,Android 13,Android,2592000,162.71,75.89,7.82,190,60,6.67,256,Yes,No,No,No,3.5,yes,14999
+Xiaomi Redmi Note 12 4G,6,Snapdragon 685 processor,13,50,8,2,0,None,5000,Android 13,Android,2592000,165.66,75.96,7.85,183.5,120,6.67,64,Yes,No,No,No,3.5,Yes,14999
+iQOO Z6 Lite 5G,6,Snapdragon 4 Gen 1 Processor,8,50,2,0,0,None,5000,Android 12,Android,-,164,75.8,8.3,194,120,6.58,128,Yes,No,No,No,0,yes,13999
+Poco C55,4,MediaTek Helio G85,5,50,,0,0,None,5000,Android 12,Android,1188000,168.8,76.4,8.8,192,60,6.71,64,Yes,No,No,No,3.5,Yes,7749
+Vivo T1 44W,4,Qualcomm Snapdragon 680,16,50,2,2,0,None,5000,Android 12,Android,2592000,160.8,73.79,8.42,182,60,6.44,128,Yes,No,No,No,3.5,yes,14499
+Infinix Hot 20 5G,4,MediaTek Dimensity 810,8,50,2,0,0,None,5000,Android 12,Android,-,166.3,76.5,8.9,204,120,6.6,64,Yes,No,No,No,3.5,Yes,11499
+Samsung Galaxy F23 5G,4,Qualcomm Snapdragon 750G,8,50,8,2,0,None,5000,Android 12,Android,2600640,165.5,77,8.4,198,120,6.6,128,Yes,No,No,No,3.5,Yes,14499
+Vivo Y22 (2022),4,MediaTek Helio G70,8,50,2,0,0,None,5000,Android 12,Android,1160640,164.3,76,8.38,190,60,6.55,64,Yes,No,No,No,3.5,Yes,14499
+Realme Narzo 50,4,MediaTek Helio G96,16,50,2,2,0,None,5000,Android 11,Android,2592000,164.1,75.5,8.5,194,120,6.6,64,Yes,No,No,No,3.5,yes,11789
+Poco M4 Pro 5G,4,MediaTek Dimensity 810,16,50,8,0,0,None,5000,Android 11,Android,2592000,163.56,75.78,8.75,195,90,6.6,64,Yes,No,No,No,3.5,Yes,14999
+Nokia C32,2,Unisoc SC9863A1,8,50,2,0,0,None,5000,Android 13,Android,1152000,164.6,75.9,8.5,199.4,60,6.5,64,Yes,No,No,No,3.5,Yes,8999
+Poco M5,4,Mediatek MT8781 Helio G99,8,50,2,2,0,None,5000,Android 12,Android,2592000,63.99,76.09,8.9,201,60,6.58,64,Yes,No,No,No,3.5,yes,8999
+Vivo Y20A,3,Qualcomm Snapdragon 439,8,13,2,2,0,None,5000,Android 11,Android,1152000,164.41,76.32,8.41,192,120,6.51,64,Yes,No,No,No,3.5,Yes,12990
+Lava Blaze 5G,4,MediaTek Dimensity 700,8,50,2,0.3,0,None,5000,Android 12,Android,1152000,165.3,76.4,8.9,207,90,6.51,128,Yes,No,No,No,3.5,Yes,10999
+Realme 9i 5G,4,MediaTek Dimensity 810,8,50,0,0,0,None,5000,Android 12,Android,2592000,164.4,75.1,8.1,187,90,6.6,64,Yes,No,No,No,3.5,Yes,13499
+Realme 9i,4,Qualcomm Snapdragon 680,16,50,2,2,0,None,5000,Android 11,Android,2592000,164.4,75.7,8.44,190,90,6.6,64,Yes,No,No,No,3.5,Yes,14999
+Realme C30,2,Unisoc T612,5,8,0,0,0,None,5000,Android 11 (Go edition),Android,1152000,164.1,75.6,8.5,182,60,6.5,32,Yes,No,No,No,3.5,yes,5999
+Motorola Moto G52,4,Qualcomm Snapdragon 680,16,50,8,2,0,None,5000,Android 12,Android,2592000,160.98,74.46,7.99,169,90,6.6,64,Yes,No,No,No,3.5,Yes,11249
+Realme C55,4,MediaTek Helio G88,8,64,2,0,0,None,5000,Android 13,Android,2592000,165.6,75.9,7.9,189.5,90,6.72,64,Yes,No,No,No,3.5,Yes,10999
+Poco M4 5G,4,MediaTek Dimensity 700,8,50,2,0,0,None,5000,Android 12,Android,2600640,163.99,76.09,8.9,200,90,6.58,64,Yes,No,No,No,3.5,Yes,11999
+Realme 8,4,MediaTek Helio G95,16,64,8,2,2,None,5000,Android 11,Android,2592000,160.6,73.9,7.99,177,90,6.4,64,Yes,No,No,No,0,yes,15999
+Realme C33,3,Unisoc T612,5,50,0.3,0,0,None,5000,Android 12,Android,1152000,164.2,75.7,8.3,187,60,6.5,32,Yes,No,No,No,3.5,Yes,8999
+Realme Narzo 50 5G,4,MediaTek Dimensity 810,8,48,2,0,0,None,5000,Android 12,Android,2600640,163.8,75.1,8.1,190,90,6.6,64,Yes,No,No,No,3.5,Yes,14999
+Poco X3,6,Qualcomm Snapdragon 732G,20,64,13,2,2,None,6000,Android 10,Android,2527200,165.3,76.8,9.4,215,120,6.67,64,Yes,No,No,No,3.5,Yes,13999
+Samsung Galaxy M04,4,MediaTek Helio P35 (MT6765),5,13,2,0,0,None,5000,Android 12,Android,-,164.2,75.9,9.1,188,90,6.5,64,Yes,No,No,No,3.5,no,8499
+Oppo A17,4,MediaTek Helio P35 (MT6765),5,50,2,0,0,None,5000,Android 12,Android,1160640,164.2,75.6,8.3,189,60,6.56,64,Yes,No,No,No,3.5,Yes,12499
+Xiaomi Redmi 9 Prime,4,MediaTek Helio G80,8,13,8,5,2,None,5020,Android 10,Android,2527200,163.32,77.01,9.1,198,60,6.53,64,Yes,No,No,No,3.5,Yes,10499
+Poco C50,-,Mediatek MT6761 Helio A22,5,8,0,0,0,None,5000,Android 12 Go Edition,Android,1120000,76.45,164.9,9.09,192,120,6.52,32,Yes,No,No,No,3.5,Yes,5649
+Realme Narzo N53,4,Unisoc T612,8,50,0,0,0,None,5000,Android 13,Android,-,167,76.67,7.49,182,90,6.74,64,Yes,No,No,No,3.5,Yes,8999
+Infinix Smart 7,4,Spreadtrum SC9863A,5,13,0,0,0,None,6000,Android 12,Android,1160640,164.2,75.63,9.37,207,60,6.6,64,Yes,No,No,No,3.5,Yes,7299
+Tecno Spark Go (2023),4,MediaTek Helio A22 (MT6761),5,13,0,0,0,None,5000,Android 12,Android,-,163.86,75.51,8.9,199,60,6.56,64,Yes,No,No,No,3.5,Yes,6500
+Poco C51,4,MediaTek Helio G36,5,8,0,0,0,None,5000,Android 13 Go Edition,Android,1152000,164.9,76.75,9.09,192,60,6.52,64,Yes,No,No,No,3.5,Yes,6999
+Samsung Galaxy F04,4,MediaTek Helio P35 (MT6765),5,12,2,0,0,None,5000,Android 12,Android,1152000,75.9,164.2,9.1,188,60,6.5,64,Yes,No,No,No,3.5,No,7299
+Oppo A54,4,MediaTek Helio P35 (MT6765),16,13,2,2,0,None,5000,Android 10,Android,1152000,163.6,75.7,8.4,192,90,6.51,64,Yes,No,No,No,-,yes,11990
+Oppo A17k,3,MediaTek Helio G35,5,8,0,0,0,None,5000,Android 12,Android,1160640,164,75,8.3,189,60,6.56,64,Yes,No,No,No,3.5,Yes,10499
+Motorola Moto G40 Fusion,4,Qualcomm Snapdragon 732G,16,64,8,2,0,None,6000,Android 11,Android,2656800,169.6,75.9,9.8,225,120,6.8,64,Yes,No,No,No,3.5,Yes,12999
+Xiaomi Redmi Note 9 4G,4,Qualcomm Snapdragon 662,8,48,8,2,0,None,6000,Android 10,Android,2527200,162.3,77.2,9.6,198,120,6.53,128,Yes,No,No,No,3.5,Yes,12790
+Oppo A53 2020,4,Qualcomm Snapdragon 460,16,13,2,2,0,None,5000,Android 10,Android,1152000,169.3,75.1,8.6,186,90,6.5,64,Yes,No,No,No,3.5,Yes,11770
+Vivo Y21,4,MediaTek Helio P35 (MT6765),8,13,2,0,0,None,5000,Android 11,Android,1152000,164.26,76.08,8,182,90,6.5,128,Yes,No,No,No,-,Yes,12849
+Samsung Galaxy F22,4,MediaTek Helio G80,13,48,8,2,2,None,6000,Android 11,Android,1152000,159.9,74,9.3,203,90,6.4,64,Yes,No,No,No,-,Yes,11499
+Poco M2 Pro,4,Qualcomm Snapdragon 720G,16,48,8,5,2,None,5020,Android 10,Android,2592000,165.75,76.68,8.8,209,120,6.67,64,Yes,No,No,No,3.5,Yes,10999
+Moto E13,2,Unisoc T606,5,13,0,0,0,None,5000,Android 13 Go Edition,Android,1152000,164.19,74.95,8.47,179.5,60,6.5,64,Yes,No,No,No,3.5,yes,6799
+Tecno Pova 4,8,MediaTek Helio G99,8,50,0,0,0,None,6000,Android 12,Android,-,170.6,77.5,8.7,213,90,6.95,128,Yes,No,No,No,3.5,Yes,11999
+Moto G32,4,Qualcomm Snapdragon 680,16,50,8,2,0,None,5000,Android 12,Android,2592000,161.78,73.84,8.49,184,90,6.5,128,Yes,No,No,No,3.5,Yes,10999
+Lava Blaze 2,6,Unisoc T616,8,13,2,0,0,None,5000,Android 12,Android,1152000,164.96,76.1,8.6,203,90,6.5,128,Yes,No,No,No,3.5,Yes,8999
+Tecno Spark 10C,4,Unisoc T606,8,16,0,0,0,None,5000,Android 12,Android,-,163.84,75.49,8.5,195,90,6.56,128,Yes,No,No,No,-,yes,15000
+Xiaomi Redmi Note 9 Pro 5G,6,Qualcomm Snapdragon 750G,16,108,8,2,2,None,4820,Android 10,Android,2592000,165.38,76.8,9,215,60,6.67,128,Yes,No,No,No,-,Yes,16000
+Samsung Galaxy A03,2,Unisoc T606,5,48,2,0,0,None,5000,Android 11,Android,1152000,164.2,75.9,9.1,196,60,6.5,32,Yes,No,No,No,3.5,yes,14549
+Poco M3,6,Qualcomm Snapdragon 662,8,48,2,2,0,None,6000,Android 10,Android,2527200,162.3,77.3,9.6,197,60,6.53,64,Yes,No,No,No,3.5,Yes,12299
+Poco F1,6,Qualcomm Snapdragon 845,20,12,5,0,0,None,4000,Android 8.1,Android,2425680,155.5,75.2,8.8,182,60,6.18,64,Yes,No,No,No,3.5,Yes,11599
+Realme Narzo 50i Prime,3,Unisoc T612,5,8,0,0,0,None,5000,Android 11 (Go edition),Android,1152000,164.1,75.6,8.5,182,60,6.5,32,Yes,No,No,No,3.5,yes,6999
+Motorola Moto E32s,3,MediaTek Helio G37,8,16,2,2,0,None,5000,Android 12,Android,1152000,163.95,74.94,8.49,185,90,6.5,32,Yes,No,No,No,3.5,Yes,8499
+Samsung Galaxy F12,4,Samsung Exynos 850,16,48,5,2,2,None,6000,Android 11,Android,1152000,164,75.9,9.7,221,90,6.5,64,Yes,No,No,No,3.5,Yes,10699
+Samsung Galaxy F13,4,Samsung Exynos 850,8,50,5,2,0,None,6000,Android 12,Android,2600640,165.4,76.9,9.3,207,60,6.6,64,Yes,No,No,No,3.5,Yes,9699
+Nokia G21,4,Unisoc T606,8,50,2,2,0,None,5050,Android 11,Android,1152000,164.6,75.9,8.5,190,90,6.5,64,Yes,No,No,No,3.5,Yes,12499
+Oppo A15s,4,MediaTek Helio P35 (MT6765),8,13,2,2,0,None,4230,Android 10,Android,-,164,75.4,7.9,177,60,6.52,64,Yes,No,No,No,-,Yes,10489
+Realme C15,3,MediaTek Helio G35,8,13,8,2,2,None,6000,Android 10,Android,1152000,164.5,75.9,9.8,209,60,6.5,32,Yes,No,No,No,3.5,Yes,11999
+Xiaomi Mi A3,4,Qualcomm Snapdragon 665,32,48,8,2,0,None,4030,Android 9.0,Android,1123200,153.48,71.85,8.5,173.8,60,6.08,64,Yes,No,No,No,3.5,Yes,12999
+Samsung Galaxy M13 5G,4,MediaTek Dimensity 700,5,50,2,0,0,None,5000,Android 12,Android,-,164,76.5,8.8,195,90,6.5,64,Yes,No,No,No,-,Yes,10666
+Realme C31,3,Unisoc T612,5,13,2,0,0, Monochrome ,5000,Android 11,Android,1152000,164.74,76.19,8.43,197,60,6.52,32,Yes,No,No,No,3.5,Yes,8889
+Vivo Y30,8,MediaTek Helio P35 (MT6765),8,13,8,2,2,None,5000,Android 10,Android,1123200,162.04,76.46,9.11,197,60,6.47,128,Yes,No,No,No,3.5,Yes,13989
+Poco M4 Pro,6,MediaTek Helio G96,16,64,8,2,0,None,5000,Android 11,Android,2592000,159.8,73.8,8.08,179.5,90,6.43,64,Yes,No,No,No,-,Yes,12099
+iQOO Z6 4G,4,Qualcomm Snapdragon 680,16,50,2,2,0,None,5000,Android 12,Android,2592000,160.8,73.79,8.42,182,60,6.44,128,Yes,No,No,No,3.5,yes,14999
+Realme Narzo 30,4,MediaTek Helio G95,16,48,2,2,0,None,5000,Android 11,Android,2592000,162.3,75.4,9.4,192,120,6.5,64,Yes,No,No,No,3.5,Yes,13499
+Infinix Hot 20 Play,4,MediaTek Helio G37,8,13,0,0,0,None,6000,Android 12,Android,1180800,171,78,8.9,410,90,6.82,64,Yes,No,No,No,-,Yes,8499
+Tecno Spark 8 Pro,4,MediaTek Helio G85,8,48,2,0,0,None,5000,Android 11,Android,2656800,169,76.8,8.77,196,60,6.8,64,Yes,No,No,No,3.5,Yes,15000
+Realme C21,3,MediaTek Helio G35,5,13,2,2,0,None,5000,Android 10,Android,1152000,165.2,76.4,8.9,190,60,6.5,32,Yes,No,No,No,3.5,Yes,9499
+Lava Yuva 2 Pro,4,MediaTek Helio G37 Octa-core Processor,5,13,0,0,0,None,5000,Android 12,Android,1152000,164.5,76,9,204,-,6.5,64,Yes,No,No,No,3.5,Yes,7999
+Poco M2,6,MediaTek Helio G80,8,13,8,5,2,None,5000,Android 10,Android,2527200,163.3,77,9.1,198,120,6.53,64,Yes,No,No,No,3.5,Yes,11999
+Infinix Smart 6 HD,2,Unisoc SC9863A,5,8,0,0,0, AI lens,5000,Android 11 (Go edition),Android,1152000,165.6,76.4,9.1,400,60,6.6,32,Yes,No,No,No,3.5,Yes,5999
+Vivo Y01,2,MediaTek Helio P35 (MT6765),5,8,0,0,0,None,5000,Android 11 (Go edition),Android,1152000,163.96,75.2,8.28,178,60,6.51,32,Yes,No,No,No,3.5,yes,7999
+Nokia C01 Plus,1,Unisoc SC9863A,5,5,0,0,0,None,3000,Android 11 (Go edition),Android,1036800,148,71.8,9.3,157,60,5.45,16,Yes,No,No,No,3.5,no,5800
+Poco C3,3,MediaTek Helio G35,-,13,0,0,0,None,5000,Android 10,Android,1152000,164.9,77.1,9,194,60,6.53,32,Yes,No,No,No,3.5,yes,8800
+Oppo A3s,2,Qualcomm Snapdragon 450,8,13,2,0,0,None,4230,Android 8.1 Oreo,Android,1094400,156.2,75.6,8.2,168,60,6.2,16,Yes,No,No,No,3.5,yes,7441
+Xiaomi Redmi Note 4,4,Qualcomm Snapdragon 625,5,13,0,0,0,None,4100,Android 6.0,Android,2073600,151,76,8.3,175,60,5.5,64,Yes,No,No,No,3.5,Yes,10000
+Itel A60,2,Spreadtrum SC9832E,5,8,0,0,0, VGA,5000,Android 11,Android,1160640,165,76,9,192,90,6.6,32,Yes,No,No,No,3.5,Yes,5875
+Oppo A16K,3,MediaTek Helio G35,5,13,0,0,0,None,4230,Android 11,Android,1152000,164,75.4,7.85,175,60,6.52,32,Yes,No,No,No,3.5,No,10469
+Realme C11,2,MediaTek Helio G35,5,13,2,0,0,None,5000,Android 10,Android,1152000,164.4,75.9,9.1,196,90,6.5,32,Yes,No,No,No,3.5,no,8999
+Motorola Moto E40,4,Unisoc T700,8,48,2,2,0,None,5000,Android 11,Android,1152000,165.1,75.6,9.1,198,90,6.5,64,Yes,No,No,No,-,Yes,8999
+Vivo Y15 (2019),4,MediaTek Helio P22 (MT6762),16,13,8,2,0,None,5000,Android 9 Pie,Android,1111680,159.43,76.77,8.92,190.5,60,6.35,64,Yes,No,No,No,-,Yes,12500
+Infinix Hot 12,4,MediaTek Helio G37,8,50,2,0,0, AI,6000,Android 11,Android,1160640,171.5,77.5,9.2,194.9,90,6.82,64,Yes,No,No,No,-,Yes,8999
+Realme C11 (2021),2,Unisoc SC9863A,5,8,0,0,0,None,5000,Android 11,Android,1152000,165.2,76.4,8.9,190,60,6.5,32,Yes,No,No,No,3.5,Yes,7499
+Samsung Galaxy J7 Nxt,2,Exynos 7870 Octa,5,13,0,0,0,None,3000,Android 7.0,Android,921600,152.4,78.6,7.6,170,-,5.5,16,Yes,No,No,No,3.5,Yes,9999
+Lava Z3,0.003,MediaTek Helio A20,5,8,0,0,0, AI Lens,5000,Android 11,Android,1152000,164.5,75.8,8.9,192,60,6.5,32,Yes,No,No,No,3.5,Yes,6490
+Samsung Galaxy M11,3,Qualcomm Snapdragon 450,8,13,5,2,0,None,5000,Android 10,Android,1123200,161.4,76.3,9,197,60,6.4,32,Yes,No,No,No,3.5,Yes,12999
+Realme C25,4,MediaTek Helio G70,8,13,2,2,0,None,6000,Android 11,Android,1152000,164.5,75.9,9.6,209,60,6.5,64,Yes,No,No,No,3.5,Yes,10999
+Tecno Pop 7 Pro,4,Mediatek MT6761 Helio A22,5,12,12,0,0,None,5000,Android 12,Android,1160640,163.86,75.51,8.9,190,60,6.6,64,Yes,No,No,No,3.5,Yes,7299
+Moto E22s,4,MediaTek Helio G37,8,16,2,0,0,None,5000,Android 12,Android,1152000,163.95,74.94,8.49,185,90,6.5,64,Yes,No,No,No,-,Yes,8999
+Realme C25Y,4,Unisoc T610,8,50,2,2,0,None,5000,Android 11,Android,1152000,164.5,76,9.1,200,60,6.5,64,Yes,No,No,No,3.5,Yes,10999
+Realme C33 2023,4,Unisoc T612,5,50,50,0,0,None,5000,Android 12,Android,-,164.2,75.7,8.3,187,60,6.5,64,Yes,No,No,No,3.5,Yes,9999
+Motorola Moto G22,4,MediaTek Helio G37,16,50,8,2,2,None,5000,Android 12,Android,1152000,163.95,74.94,8.49,185,90,6.53,64,Yes,No,No,No,3.5,Yes,9999
+"Vivo Y15c (3GB RAM, 32GB)",3,MediaTek Helio P35 (MT6765),8,13,2,0,0,None,5000,Android 12,Android,1152000,163.96,75.2,8.28,179,60,6.51,32,Yes,No,No,No,-,Yes,9499
+"Micromax In Note 2 (4GB RAM, 64GB)",4,MediaTek Helio G95,16,48,5,2,2,None,5000,Android 11,Android,2592000,159.9,74.3,8.34,205,60,6.43,64,Yes,No,No,No,3.5,Yes,13499
+"Poco F1 (6GB RAM, 128GB)",6,Qualcomm Snapdragon 845,20,12,5,0,0,None,4000,Android 8.1,Android,2425680,155.5,75.2,8.8,182,60,6.18,128,Yes,No,No,No,3.5,Yes,11599
+Tecno Spark 9,4,MediaTek Helio G37,8,13,0,0,0,None,5000,Android 12,Android,-,164.57,76,8.95,194,90,6.6,64,Yes,No,No,No,-,Yes,7499
+Vivo Y20G,4,MediaTek Helio G80,8,13,2,2,0,None,5000,Android 11,Android,1152000,164.41,76.32,8.41,192,60,6.51,64,Yes,No,No,No,-,Yes,14990
+Samsung Galaxy A12,4,MediaTek Helio P35 (MT6765),8,48,5,2,2,None,5000,Android 10,Android,1152000,164,75.8,8.9,205,60,6.5,64,Yes,No,No,No,3.5,Yes,10498
+Micromax In 2b,4,Unisoc T610,5,13,2,0,0,None,5000,Android 11,Android,720,164.3,75.7,8.6,190,60,6.52,64,Yes,No,No,No,-,Yes,6999
+Vivo Y53,2,Qualcomm Snapdragon 425,5,8,0,0,0,None,2500,Android 6.0,Android,518400,144.2,71.4,7.64,137,90,5,16,Yes,No,No,No,3.5,Yes,9990
+Realme C20,2,MediaTek Helio G35,5,8,0,0,0,None,5000,Android 10,Android,1152000,165.2,76.4,8.9,190,60,6.5,32,Yes,No,No,No,3.5,Yes,7499
+Vivo U10,3,Qualcomm Snapdragon 665,8,13,8,2,0,None,5000,Android 9 Pie,Android,1111680,159.43,76.77,8.92,190.5,-,6.35,32,Yes,No,No,No,3.5,Yes,9499
+Vivo Y12,3,MediaTek Helio P22 (MT6762),8,8,13,2,0,None,5000,Android 9 Pie,Android,1111680,159.43,76.77,8.92,190.5,60,6.35,32,Yes,No,No,No,-,Yes,11000
+Lenovo Tab M9,3,MediaTek Helio G80 SoC,2,8,0,0,0,None,5100,Android 12,Android,1072000,215.43,136.76,7.99,344,-,9,32,Yes,No,No,No,-,Yes,12999
+Samsung Galaxy Tab A8,3,Unisoc Tiger T618,5,8,0,0,0,None,7040,Android 11,Android,2304000,246.8,161.9,6.9,508,60,10.5,32,Yes,No,No,No,3.5,Yes,13499
+Samsung Galaxy Tab A7 Lite,3,MediaTek Helio P22T (MT8768T),2,8,0,0,0,None,5100,Android 11,Android,1072000,212.5,124.7,8,366,60,8.7,32,Yes,No,No,No,-,Yes,15000
+Itel Pad One,4,SC9863A1,5,8,0,0,0,None,6000,Android 12 (Go Edition),Android,1024000,241.37,160.16,8.2,520,-,10.1,128,Yes,No,No,No,3.5,no,12999
+Lenovo Tab K10,3,MediaTek Helio P22T,5,8,0,0,0,None,7500,Android 11,Android,2304000,244,153,8.15,460,-,10.3,32,Yes,No,No,No,3.5,Yes,12999
+Acer Iconia One 8,1,Intel Atom Z3735G,-,0,0,0,0,None,4420,Android 4.4,Android,1024000,127.7,213.9,9.5,355,-,8,16,Yes,No,No,No,3.5,Yes,9999
+Realme Pad Mini,3,Unisoc T616,5,8,0,0,0,None,6400,Android 11,Android,1072000,211.8,124.5,7.6,372,60,8.7,32,Yes,No,No,No,-,Yes,11628
+Realme Pad,4,MediaTek Helio G80,8,8,0,0,0,None,7100,Android 11,Android,2400000,246.1,155.9,6.9,440,60,10.4,64,Yes,No,No,No,3.5,Yes,15272
+Samsung Galaxy Tab A 10.1 (2019) (Wi-Fi),2,Exynos 7904,5,8,0,0,0,None,6150,Android 9.0,Android,2304000,245,149,7.5,460,-,10.1,32,Yes,No,No,No,-,No,11990
+Motorola Moto Tab G20,3,MediaTek Helio P22 SoC,2,5,0,0,0,None,5100,Android 11,Android,960000,199.1,121.8,8.15,305,90,8,32,Yes,No,No,No,3.5,No,10990
+Samsung Galaxy Tab A7 (LTE),3,Qualcomm Snapdragon 662,5,8,0,0,0,None,7040,Android 10,Android,2400000,157.4,247.6,7,477,60,10.4,32,Yes,No,No,No,3.5,Yes,15490
+Lenovo Smart Tab M10 FHD Plus 2nd Gen With Google Assistant,2,MediaTek Helio P22T Tab,5,8,0,0,0,None,5000,Android 9 Pie,Android,2304000,244.2,153.3,8.15,460,60,10.3,32,Yes,No,No,No,3.5,Yes,16000
+Nokia T21,4,Unisoc T612,8,8,0,0,0,None,8200,Android 12,Android,2400000,247.5,157.3,7.5,466,60,10.36,64,Yes,No,No,No,3.5,No,14999
+Lava Magnum XL,2,2.0GHz MHz quad-core MediaTek processor,2,5,0,0,0,None,6100,Android 10,Android,1024000,240.8,167.4,9.3,530,-,10.1,32,Yes,No,No,No,3.5,No,10559
+Lava Ivory,2,1.3GHz MHz quad-core MediaTek processor,2,5,0,0,0,None,4100,Android 10,Android,1024000,109.6,186.78,9.9,290,-,7,16,Yes,No,No,No,3.5,No,5499
+Lenovo Tab 7,2,1.3GHz quad-core MediaTek processor,2,5,0,0,0,None,3500,Android 7.0,Android,921600,193,98.7,8.4,260,-,6.98,16,Yes,No,No,No,3.5,Yes,10499
+Lenovo Smart Tab M10 HD 2nd Gen with Alexa Built-in,2,MediaTek Helio P22T,5,8,0,0,0,None,5000,Android 10,Android,1024000,149.38,241.54,8.25,420,60,10.1,32,Yes,No,No,No,3.5,yes,15000
+Lenovo Tab M10 HD Gen 2,2,MediaTek Helio P22T,5,8,0,0,0,None,5000,Android 10,Android,1024000,149.38,241.54,8.25,420,-,10.1,32,Yes,No,No,No,3.5,yes,14000
+TCL Tab 10s,3,MediaTek MT8768,5,8,0,0,0,None,8000,Android 10,Android,2304000,241,158.6,8.3,464,60,10.1,32,Yes,No,No,No,3.5,yes,10579
+Huawei MatePad T8,2,MediaTek MTK8768,-,0,0,0,0,None,5100,Android 10,Android,1008000,199.7,121.1,8.6,220,60,8,16,Yes,No,No,No,-,yes,9041
+Lenovo Tab M8,3,MediaTek Helio A22,2,5,0,0,0,None,5000,Android Pie,Android,921600,199.1,121.8,8.15,305,60,8,32,Yes,No,No,No,3.5,yes,8140
+Samsung Galaxy Tab A 8.0 (2019) LTE,2,Qualcomm SDM429 Snapdragon 429,2,8,0,0,0,None,5100,Android 9 Pie,Android,1024000,210,124.4,8,347,60,8,32,Yes,No,No,No,3.5,yes,11999
+Micromax Canvas Plex Tab,3,MediaTek MT8382W/M,2,5,0,0,0,None,3000,Android 5.1,Android,614400,216,9,124,354,-,8,32,Yes,No,No,No,3.5,no,11000
+HP Slate 7 VoiceTab Ultra,2,HiSilicon Balong V9R1,5,13,0,0,0,None,5000,Android 4.2,Android,2304000,103,183,7.18,239,-,7,16,Yes,No,No,No,3.5,no,12831
+Lenovo Tab M7,1,MediaTek MT8321,2,2,0,0,0,None,3500,Android Pie,Android,614400,176.33,102.85,8.25,236,60,7,8,Yes,No,No,No,3.5,no,7996
+Honor Pad 5 (8-inch),3,HiSilicon Kirin 710,8,8,0,0,0,None,5100,Android 9 Pie,Android,2304000,204,8,122,310,60,8,32,Yes,No,No,No,3.5,yes,8176
+Lenovo Tab 7 Essential,1,MediaTek MT8167D,2,2,0,0,0,None,3500,Android 7.0,Android,614400,194.8,102,8.8,254,60,7,16,Yes,No,No,No,3.5,no,5000
+Lenovo Tab 4 8 Plus,4,Qualcomm Snapdragon 625,5,8,0,0,0,None,4850,Android 7.0,Android,2304000,210.6,123,7,300,60,8,64,Yes,No,No,No,3.5,yes,15000
+Honor Pad 5 (10.1-inch),3,HiSilicon Kirin 659,2,8,0,0,0,None,5100,Android Oreo,Android,2304000,243,164,7.8,460,60,10.1,32,Yes,No,No,No,3.5,yes,16999
+Samsung Galaxy Tab A 7.0 (2018),1.5,Qualcomm MSM8916 Snapdragon,2,5,0,0,0,None,4000,Android 10,Android,1024000,186.9,108.8,8.7,289,60,7,8,Yes,No,No,No,3.5,no,9490
+HP Pro 8,2,MediaTek MT8735,2,5,0,0,0,None,6000,Android 6.0,Android,960000,128,210.7,11.9,488,60,8,16,Yes,No,No,No,3.5,yes,8999
+Lenovo Tab 4 10,2,Qualcomm Snapdragon 425,2,5,0,0,0,None,7000,Android 7.0,Android,1024000,247,170,8.4,505,60,10.1,16,Yes,No,No,No,3.5,yes,13999
